@@ -1,2 +1,4 @@
 # IR-project
-Develop a search engine
+project of Information Retrieval course
+
+Developing a simple persian search engine
