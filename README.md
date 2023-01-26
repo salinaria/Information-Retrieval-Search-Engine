@@ -1,8 +1,8 @@
-# Information retrieval course project Fall-1401
+# Information Retrieval course project Fall-1401
 
 #### Developing a simple Persian search engine
 
-## Phase 1
+# Phase 1
 
 ### Pre-processing data
 * Tokenizing docs
@@ -22,3 +22,16 @@
     2. How many times each word of query repeted in this document
 4. Show top-5 results with related sentences of those documents
 
+# Phase 2
+
+### tf.idf
+
+* Calculating tf.idf score and cosine similarity between a query and a document
+
+### Champions list
+
+* Index elimination using champions list to make faster our engine
+
+# Instructor
+
+Information Retrieval course Fall-1401 at Computer Engineering of Amirkabir University of Technology taught by [**Prof. Ahmad Nickabadi**](https://scholar.google.com/citations?user=pSMNSZwAAAAJ&hl=en)
